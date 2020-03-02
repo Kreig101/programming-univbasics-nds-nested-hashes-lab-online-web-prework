@@ -18,7 +18,7 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  hash =  [{ name:  "Don Gately", occupation: "Live-in Staff" },{ name:  "Joelle van Dyne", occupation: "Radio Personality" },KATE_G,BRUCE_G]
+  hash =  [{ name:  "Don Gately", occupation: "Live-in Staff" },{ name:  "Joelle van Dyne", occupation: "Radio Personality" },{ name:  "Pat Monteseian", occupation: "Staff" },]
   
 end
 
